@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ramos suda\\Second ciclo\\.Net\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\Ramos suda\\Second ciclo\\Poo\\POO\\Deber-Objetos\\Semana1\\Trabajo-autonomo\\.Net\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Ramos suda\\Second ciclo\\.Net\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\Ramos suda\\Second ciclo\\Poo\\POO\\Deber-Objetos\\Semana1\\Trabajo-autonomo\\.Net\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ramos suda\\Second ciclo\\.Net\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\Ramos suda\\Second ciclo\\Poo\\POO\\Deber-Objetos\\Semana1\\Trabajo-autonomo\\.Net\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\Ramos suda\\Second ciclo\\.Net\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\Ramos suda\\Second ciclo\\Poo\\POO\\Deber-Objetos\\Semana1\\Trabajo-autonomo\\.Net\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-        "outputPath": "D:\\Ramos suda\\Second ciclo\\.Net\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\Ramos suda\\Second ciclo\\Poo\\POO\\Deber-Objetos\\Semana1\\Trabajo-autonomo\\.Net\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\richa\\AppData\\Roaming\\NuGet\\NuGet.Config"
